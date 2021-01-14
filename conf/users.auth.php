@@ -12,3 +12,7 @@
 
 orange:$2y$10$QcGuBJmFu73xmX4L9tDkheKIUqSUlw4LSWlK51YsoUwnRLKo1JPiu:ryota asakura:takashi.shioya8@gmail.com:group1
 grape:$2y$10$Oth6a5w0cZSIDVzfZiwB1O5hbZvankXMTZTJyj4CWZHz7deFmilai:takashi shioya:honolua38@gmail.com:admin,user,group2
+fujita:$2y$10$8z4mbH2YLMiHcIOGJngJ3ezQq2yRU8prj8zxsGc/TnxqZsf.3oFN2:ryo fujita:ryo.fujita1@ibm.com:admin
+michita:$2y$10$92NVN8Ec5R7fyhMfQaxvCuuCqv0wAkh7eEEtzEwu49FO7iHafTsi.:riko michita:michita0685@cs.saisoncard.co.jp:admin
+kikuchi:$2y$10$PJJPHMVbfgvsRuFFaLlQj.yjWX9LSPnVfTuhXberPCmHAgt2tmvzS:nobuyuki kikuchi:kikuchi4255@cs.saisoncard.co.jp:admin
+sugie:$2y$10$4gwZmhxWkzJRuBGy4cu6JuQzkoaOvZkuyI3b5ugPohtNJh0ui1CZS:asumi sugie:sugise10559@cs.saisoncard.co.jp:admin
